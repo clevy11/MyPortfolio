@@ -3,11 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://clevy11.github.io/desc-softlab-digital-solutions",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "build:dev": "vite build --mode development",
-    "lint": "eslint .",
+    "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"

@@ -64,7 +64,7 @@ export const Hero = () => {
             <div className="relative">
               <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-primary to-purple-600 blur-lg opacity-75 animate-pulse" />
               <img 
-                src="/public/IMG_6367.jpg" 
+                src="./public/IMG_6367.jpg" 
                 alt="Buntu Levy Caleb"
                 className="relative w-64 h-64 rounded-full object-cover border-4 border-primary"
               />
